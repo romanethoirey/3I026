@@ -57,7 +57,7 @@ class LabeledSet:
         """
         return self.x[i]
     
-    
+    #
     def getY(self, i):
         """ Renvoie la classe de du i-eme exemple (y_i)
         """
