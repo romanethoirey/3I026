@@ -13,6 +13,7 @@ Année: semestre 2 - 2018-2019, Sorbonne Université
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import random
 
 # importation de LabeledSet
 from . import LabeledSet as ls

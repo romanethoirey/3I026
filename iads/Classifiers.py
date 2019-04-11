@@ -10,6 +10,7 @@ Année: semestre 2 - 2018-2019, Sorbonne Université
 import numpy as np
 import pandas as pd
 from iads import utils as ut
+import random
 
 # ---------------------------
 class Classifier:
